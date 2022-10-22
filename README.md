@@ -1,6 +1,6 @@
 # About me
 
-- 👋 Hi, I’m **@trane102**
+- 👋 Hi, I’m **@nipums**
 - 👀 I’m interested in **Python**
 - 🎮 Favorite game, **FNAF**
 - 🌸 Favorite season, **Spring**
